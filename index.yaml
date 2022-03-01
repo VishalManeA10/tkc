@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  a10-connector:
+  - apiVersion: v1
+    appVersion: "1.19"
+    created: "2022-03-01T11:58:11.772353209+05:30"
+    description: A Helm chart for A10 Connector for ACOS 4.1.4
+    digest: 6a98ab5ec14b1f26326972235031597f87602a7f12df2e415d934e28ec78cbdf
+    name: a10-connector
+    urls:
+    - https://vishalmanea10.github.io/tkc/a10-connector-1.19.tgz
+    version: "1.19"
+generated: "2022-03-01T11:58:11.769540096+05:30"
