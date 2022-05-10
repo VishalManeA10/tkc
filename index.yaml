@@ -8,6 +8,7 @@ entries:
     digest: 6a98ab5ec14b1f26326972235031597f87602a7f12df2e415d934e28ec78cbdf
     name: a10-connector
     urls:
-    - https://vishalmanea10.github.io/tkc/a10-connector-1.19.tgz
+    #- https://vishalmanea10.github.io/tkc/a10-connector-1.19.tgz
+    - https://github.com/VishalManeA10/tkc/blob/gh-pages/a10-connector-1.19.tgz
     version: "1.19"
 generated: "2022-03-01T11:58:11.769540096+05:30"
